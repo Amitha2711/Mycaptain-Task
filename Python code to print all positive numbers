@@ -1,0 +1,18 @@
+# Python program to print all positive Numbers in a list
+# list of numbers=[11,-21,0,45,66,-93]
+# iterating each number in a list
+for num in list 1:
+# checking condition
+if num >=0
+print (num, end = " " )
+
+
+
+
+
+
+
+
+
+OUTPUT
+11 0 45 66
